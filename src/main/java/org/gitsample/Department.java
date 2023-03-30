@@ -1,7 +1,7 @@
 package org.gitsample;
 
 public class Department {
-	//department details
+	//department details in my branch
 	private String name;
 	private String code;
 }
