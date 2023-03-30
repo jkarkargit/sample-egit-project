@@ -3,7 +3,7 @@ package org.gitsample;
 public class Company {
 	
 
-	//company details
+	//company details in my branch
 
 	private String name;
 	private String address;
