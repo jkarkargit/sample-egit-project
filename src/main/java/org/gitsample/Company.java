@@ -4,7 +4,7 @@ public class Company {
 	
 
 	//company details in my branch
-
+    //chage 1
 	private String name;
 	private String address;
 	public String getName() {
