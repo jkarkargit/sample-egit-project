@@ -3,6 +3,8 @@ package org.gitsample;
 public class Calculator {
 	
 //mere branch me code kiya
+	
+	//change2
 
 	public static int add(int num1, int num2) {
 		int sum = num1 + num2;
