@@ -4,7 +4,7 @@ public class Company {
 	
 
 	//company details in my branch
-
+//change2
 	private String name;
 	private String address;
 	public String getName() {
