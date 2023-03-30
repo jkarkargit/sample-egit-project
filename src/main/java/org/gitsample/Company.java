@@ -3,9 +3,7 @@ package org.gitsample;
 public class Company {
 	
 
-	//Change 2
-
-	//Change 1
+	//company details
 
 	private String name;
 	private String address;
